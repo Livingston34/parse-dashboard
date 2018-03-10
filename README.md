@@ -6,7 +6,7 @@
 [![npm version](https://img.shields.io/npm/v/parse-dashboard.svg?style=flat)](https://www.npmjs.com/package/parse-dashboard)
 
 Parse Dashboard is a standalone dashboard for managing your Parse apps. You can use it to manage your [Parse Server](https://github.com/ParsePlatform/parse-server) apps and your apps that are running on [Parse.com](https://Parse.com).
-
+ 
 * [Getting Started](#getting-started)
 * [Local Installation](#local-installation)
   * [Configuring Parse Dashboard](#configuring-parse-dashboard)
